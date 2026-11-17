@@ -1,5 +1,11 @@
 # Devpost submission draft — satsPicks
 
+## Links
+- **Live demo** — https://satspicks.vercel.app
+- **Source code** — https://github.com/0xSylla/hackaton-dakar-satspicks (MIT)
+- **Demo video** — _a remplir_
+- **Verify a draw yourself** — https://satspicks.vercel.app/tombolas (page Verify de chaque tombola)
+
 ## Tagline
 Win a home with sats: provably-fair real-estate raffles on Bitcoin, Lightning and Nostr.
 
